@@ -1,52 +1,104 @@
-# Hi, I'm Ranjan Kumar Upadhyay 👋
+# Hi 👋 I'm Ranjan Kumar Upadhyay
 
-Aspiring DevOps & Cloud Security Engineer focused on building secure, automated, and scalable cloud infrastructure.
+🚀 DevOps & Cloud Enthusiast  
+☁️ AWS | CI/CD | Infrastructure | Security | Monitoring
 
----
-
-## 🚀 Skills
-
-DevOps  
-• CI/CD Pipelines  
-• Infrastructure as Code  
-• Cloud Monitoring  
-
-Cloud & Security  
-• AWS CloudTrail  
-• AWS CloudWatch  
-• IAM Security Monitoring  
-
-Tools  
-• Git  
-• GitHub  
-• Linux  
-• Bash  
+I build scalable and secure cloud infrastructure using modern DevOps practices.
 
 ---
 
-## 🔥 Featured Projects
+# 🛠 DevOps & Cloud Skills
 
-### Secure CI/CD DevSecOps Pipeline
-Secure CI/CD pipeline with automated security scanning and deployment.
+### Cloud
+AWS (EC2, S3, RDS, CloudWatch, CloudTrail, Athena)
 
-### Cloud Security Monitoring on AWS
-CloudTrail + CloudWatch based monitoring system to detect suspicious activity.
+### DevOps
+CI/CD Pipelines  
+Infrastructure Automation  
+Monitoring & Logging
 
-### Secure AWS Cloud Infrastructure
-Infrastructure security implementation using AWS best practices.
+### Tools
+Git  
+GitHub  
+Linux  
+Bash Scripting
 
 ---
 
-## 🌐 Portfolio
+# 🚀 Featured DevOps Projects
+
+## AWS Highly Available Web Architecture
+
+Highly available AWS architecture using:
+
+- Application Load Balancer
+- Auto Scaling Group
+- EC2 Instances
+- RDS MySQL
+- CloudWatch Monitoring
+- CloudTrail Logging
+- Athena Log Analysis
+
+GitHub Repository  
+https://github.com/rajankumarup56/aws-highly-available-web-architecture
+
+---
+
+## Cloud Security Monitoring on AWS
+
+Security monitoring solution using:
+
+- AWS CloudTrail
+- CloudWatch Metric Filters
+- CloudWatch Alarms
+- SNS Email Notifications
+
+GitHub Repository  
+https://github.com/rajankumarup56/cloud-security-monitoring-aws
+
+---
+
+## Secure CI/CD DevSecOps Pipeline
+
+Secure application delivery pipeline implementing:
+
+- CI/CD automation
+- Security checks
+- DevSecOps practices
+
+GitHub Repository  
+https://github.com/rajankumarup56/secure-cicd-devsecops-pipeline
+
+---
+
+## AWS Secure Cloud Infrastructure
+
+Infrastructure security implementation including:
+
+- IAM security policies
+- Network security
+- Secure architecture design
+
+GitHub Repository  
+https://github.com/rajankumarup56/secure-aws-cloud-infrastructure
+
+---
+
+# 🌐 Portfolio
 
 Portfolio Website  
 https://rajankumarup56.github.io/ranjan-portfolio/
 
+---
+
+# 🤝 Connect With Me
+
 LinkedIn  
 https://linkedin.com/in/ranjan-kumar-upadhyay
 
+GitHub  
+https://github.com/rajankumarup56
+
 ---
 
-## 📊 GitHub Stats
-
-DevOps | Cloud | Security | Automation
+⭐ Always learning and building in DevOps & Cloud.
