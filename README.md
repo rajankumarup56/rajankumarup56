@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ranjan Kumar Upadhyay
 
-🚀 DevOps & Cloud Enthusiast  
+🚀 DevOps & Cloud Enthusiast
 ☁️ AWS | CI/CD | Infrastructure | Security | Monitoring
 
 I build scalable and secure cloud infrastructure using modern DevOps practices.
@@ -10,17 +10,20 @@ I build scalable and secure cloud infrastructure using modern DevOps practices.
 # 🛠 DevOps & Cloud Skills
 
 ### Cloud
+
 AWS (EC2, S3, RDS, CloudWatch, CloudTrail, Athena)
 
 ### DevOps
-CI/CD Pipelines  
-Infrastructure Automation  
+
+CI/CD Pipelines
+Infrastructure Automation
 Monitoring & Logging
 
 ### Tools
-Git  
-GitHub  
-Linux  
+
+Git
+GitHub
+Linux
 Bash Scripting
 
 ---
@@ -31,15 +34,15 @@ Bash Scripting
 
 Highly available AWS architecture using:
 
-- Application Load Balancer
-- Auto Scaling Group
-- EC2 Instances
-- RDS MySQL
-- CloudWatch Monitoring
-- CloudTrail Logging
-- Athena Log Analysis
+* Application Load Balancer
+* Auto Scaling Group
+* EC2 Instances
+* RDS MySQL
+* CloudWatch Monitoring
+* CloudTrail Logging
+* Athena Log Analysis
 
-GitHub Repository  
+GitHub Repository
 https://github.com/rajankumarup56/aws-highly-available-web-architecture
 
 ---
@@ -48,12 +51,12 @@ https://github.com/rajankumarup56/aws-highly-available-web-architecture
 
 Security monitoring solution using:
 
-- AWS CloudTrail
-- CloudWatch Metric Filters
-- CloudWatch Alarms
-- SNS Email Notifications
+* AWS CloudTrail
+* CloudWatch Metric Filters
+* CloudWatch Alarms
+* SNS Email Notifications
 
-GitHub Repository  
+GitHub Repository
 https://github.com/rajankumarup56/cloud-security-monitoring-aws
 
 ---
@@ -62,41 +65,34 @@ https://github.com/rajankumarup56/cloud-security-monitoring-aws
 
 Secure application delivery pipeline implementing:
 
-- CI/CD automation
-- Security checks
-- DevSecOps practices
+* CI/CD automation
+* Security checks
+* DevSecOps practices
 
-GitHub Repository  
+GitHub Repository
 https://github.com/rajankumarup56/secure-cicd-devsecops-pipeline
-
----
-
-## AWS Secure Cloud Infrastructure
-
-Infrastructure security implementation including:
-
-- IAM security policies
-- Network security
-- Secure architecture design
-
-GitHub Repository  
-https://github.com/rajankumarup56/secure-aws-cloud-infrastructure
 
 ---
 
 # 🌐 Portfolio
 
-Portfolio Website  
+Portfolio Website
 https://rajankumarup56.github.io/ranjan-portfolio/
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajankumarup56\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # 🤝 Connect With Me
 
-LinkedIn  
+LinkedIn
 https://linkedin.com/in/ranjan-kumar-upadhyay
 
-GitHub  
+GitHub
 https://github.com/rajankumarup56
 
 ---
