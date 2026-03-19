@@ -1,100 +1,84 @@
 # Hi 👋 I'm Ranjan Kumar Upadhyay
 
-🚀 DevOps & Cloud Enthusiast
-☁️ AWS | CI/CD | Infrastructure | Security | Monitoring
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue)
+![Linux](https://img.shields.io/badge/Linux-Admin-green)
 
-I build scalable and secure cloud infrastructure using modern DevOps practices.
+🚀 DevOps & Cloud Engineer  
+☁️ AWS | CI/CD | Monitoring | Security  
+
+I build scalable, secure, and automated cloud infrastructure using modern DevOps practices.
 
 ---
 
-# 🛠 DevOps & Cloud Skills
+## 🔥 Featured Projects
 
-### Cloud
+### 🚀 AWS Highly Available Web Architecture
+✔ Load Balancer + Auto Scaling + EC2 + RDS  
+✔ High availability & scalability implemented  
+🔗 https://github.com/rajankumarup56/aws-highly-available-web-architecture  
 
+---
+
+### 🔐 Cloud Security Monitoring on AWS
+✔ CloudTrail + CloudWatch + SNS Alerts  
+✔ Real-time monitoring & alerting system  
+🔗 https://github.com/rajankumarup56/cloud-security-monitoring-aws  
+
+---
+
+### ⚙️ CI/CD DevSecOps Pipeline
+✔ Automated secure deployment pipeline  
+✔ DevOps + Security integration  
+🔗 https://github.com/rajankumarup56/secure-cicd-devsecops-pipeline  
+
+---
+
+### 🛡 Secure AWS Cloud Infrastructure
+✔ IAM + Network Security + Best Practices  
+✔ Secure cloud architecture design  
+🔗 https://github.com/rajankumarup56/secure-aws-cloud-infrastructure  
+
+---
+
+## 🛠 Skills
+
+### ☁️ Cloud
 AWS (EC2, S3, RDS, CloudWatch, CloudTrail, Athena)
 
-### DevOps
+### ⚙️ DevOps
+CI/CD Pipelines  
+Infrastructure Automation  
+Monitoring & Logging  
 
-CI/CD Pipelines
-Infrastructure Automation
-Monitoring & Logging
-
-### Tools
-
-Git
-GitHub
-Linux
-Bash Scripting
+### 🧰 Tools
+Git | GitHub | Linux | Bash  
 
 ---
 
-# 🚀 Featured DevOps Projects
+## 📊 What I Do
 
-## AWS Highly Available Web Architecture
-
-Highly available AWS architecture using:
-
-* Application Load Balancer
-* Auto Scaling Group
-* EC2 Instances
-* RDS MySQL
-* CloudWatch Monitoring
-* CloudTrail Logging
-* Athena Log Analysis
-
-GitHub Repository
-https://github.com/rajankumarup56/aws-highly-available-web-architecture
+- Build highly available cloud architectures  
+- Implement monitoring and security solutions  
+- Automate deployment pipelines  
+- Work with real-world AWS projects  
 
 ---
 
-## Cloud Security Monitoring on AWS
+## 🌐 Portfolio
 
-Security monitoring solution using:
-
-* AWS CloudTrail
-* CloudWatch Metric Filters
-* CloudWatch Alarms
-* SNS Email Notifications
-
-GitHub Repository
-https://github.com/rajankumarup56/cloud-security-monitoring-aws
+🔗 https://rajankumarup56.github.io/ranjan-portfolio/
 
 ---
 
-## Secure CI/CD DevSecOps Pipeline
+## 🤝 Connect With Me
 
-Secure application delivery pipeline implementing:
+🔗 LinkedIn  
+https://linkedin.com/in/ranjan-kumar-upadhyay  
 
-* CI/CD automation
-* Security checks
-* DevSecOps practices
-
-GitHub Repository
-https://github.com/rajankumarup56/secure-cicd-devsecops-pipeline
+📧 Email  
+rajankumarup56@zohomail.in  
 
 ---
 
-# 🌐 Portfolio
-
-Portfolio Website
-https://rajankumarup56.github.io/ranjan-portfolio/
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajankumarup56\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🤝 Connect With Me
-
-LinkedIn
-https://linkedin.com/in/ranjan-kumar-upadhyay
-
-GitHub
-https://github.com/rajankumarup56
-
----
-
-⭐ Always learning and building in DevOps & Cloud.
+⭐ Always learning and building in DevOps & Cloud 🚀
